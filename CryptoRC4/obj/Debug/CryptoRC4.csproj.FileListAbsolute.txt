@@ -1,0 +1,24 @@
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.csproj.AssemblyReference.cache
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.Properties.Resources.resources
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.csproj.GenerateResource.cache
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.csproj.CoreCompileInputs.cache
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.frmFrontEnd.resources
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\bin\Debug\CryptoRC4.exe.config
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\bin\Debug\CryptoRC4.exe
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\bin\Debug\CryptoRC4.pdb
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.exe
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.pdb
+C:\Users\sird\source\repos\CryptoRC4\CryptoRC4\obj\Debug\CryptoRC4.START.resources
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\bin\Debug\CryptoRC4.exe.config
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\bin\Debug\CryptoRC4.exe
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\bin\Debug\CryptoRC4.pdb
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.csproj.AssemblyReference.cache
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.csproj.SuggestedBindingRedirects.cache
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.frmFrontEnd.resources
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.Properties.Resources.resources
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.START.resources
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.csproj.GenerateResource.cache
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.csproj.CoreCompileInputs.cache
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.exe
+C:\Users\sird\source\repos\CryptoRC4 - Copy\CryptoRC4\obj\Debug\CryptoRC4.pdb
